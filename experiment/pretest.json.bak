@@ -1,0 +1,29 @@
+[
+    {
+        "question": "Gauss Seidel with relaxation method is _______________________",
+        "qid": 1,
+        "option_a": "Iterative method",
+        "option_b": "Direct method",
+        "option_c": "",
+        "option_d": "",
+        "correct_option": "a"
+    },
+    {
+        "question": "The partial pivoting _______________________",
+        "qid": 2,
+        "option_a": "will not effect the number of iterations to achieve the desired accuracy",
+        "option_b": "may reduce the number of iterations to reach the desired accuracy",
+        "option_c": "always reduces the number of iterations to achieve the desired accuracy",
+        "option_d": "partial pivoting is not requred",
+        "correct_option": "b"
+    },
+    {
+        "question": "In Gauss Seidel with relaxation method _______________________",
+        "qid": 3,
+        "option_a": "always older iteration values are used",
+        "option_b": "always latest iteration values are used",
+        "option_c": "",
+        "option_d": "",
+        "correct_option": "b"
+    }
+]
